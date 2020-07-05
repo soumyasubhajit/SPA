@@ -5,6 +5,8 @@ Welcome to bookmyshow,
 
 BookMovies click this button
 
+choose the seat
+
 booking sucessful
 
 
